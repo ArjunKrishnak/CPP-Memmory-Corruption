@@ -1,7 +1,9 @@
-# CPP-Memmory-Corruption
+# CPP-Memory-Corruption
 Various common scenarios of memory corruption in C++
 
-# Memory errors:
+## Walkthrough video
+https://www.youtube.com/watch?v=MX22A6hH5po&t=2s
+
 
 ## Heap memory errors:
 
